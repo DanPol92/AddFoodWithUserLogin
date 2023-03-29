@@ -19,7 +19,7 @@ public class DBFoodList {
             final String URL = "jdbc:postgresql://localhost:5432/grupajava";
             final String USERNAME = "postgres";
 
-            final String PASSWORD = "postgres";
+            final String PASSWORD = "1234";
 
 
             Class.forName("org.postgresql.Driver");
@@ -62,7 +62,7 @@ public class DBFoodList {
         final String URL = "jdbc:postgresql://localhost:5432/grupajava";
         final String USERNAME = "postgres";
 
-        final String PASSWORD = "postgres";
+        final String PASSWORD = "1234";
         int id =-1;
         try {
             Class.forName("org.postgresql.Driver");
